@@ -1,0 +1,15 @@
+h1{text-align: center;
+
+}
+p{
+	border: 1px;
+	background-color: gray;
+	width: 50%;
+}
+	.row{
+	margin-bottom: 15px;
+}
+.row{
+	border: 5px solid;
+	background-color: red;
+}
